@@ -1,27 +1,27 @@
-IBM Data Analysis and Visualization Foundations Specialization		01/31/2025		9
-IBM Introduction to Data Science Specialization						06/03/2025		7
-IBM Data Science Fundamentals with Python & SQL Specialization		04/30/2025		8
-IBM Applied Data Science Specialization								01/31/2025		12
-IBM Data Analyst Professional Certificate							09/30/2024		12
-IBM Data Science Professional Certificate							09/30/2024		12			60
+IBM Data Analysis and Visualization Foundations Specialization		    01/31/2025		9
+IBM Introduction to Data Science Specialization						            06/03/2025		7
+IBM Data Science Fundamentals with Python & SQL Specialization		    04/30/2025		8
+IBM Applied Data Science Specialization								                01/31/2025		12
+IBM Data Analyst Professional Certificate						                	09/30/2024		12
+IBM Data Science Professional Certificate						                	09/30/2024		12			60
 
-Real-World Cloud Product Management Specialization					04/30/2025		6
-Real-World Product Management Specialization						04/30/2025		6
-SAS Programmer Professional Certificate								04/30/2025		4
-SAS Advanced Programmer Professional Certificate					04/30/2025		3			19
+Real-World Cloud Product Management Specialization			          		04/30/2025		6
+Real-World Product Management Specialization					               	04/30/2025		6
+SAS Programmer Professional Certificate								                04/30/2025		4
+SAS Advanced Programmer Professional Certificate					            04/30/2025		3			19
 
-IBM Data Analytics with Excel and R Professional Certificate		04/30/2025		15
-IBM Data Engineering Professional Certificate						04/30/2025		12
-Google Data Analytics Professional Certificate						07/31/2024		12
-Google Project Management Professional Certificate					07/31/2024		9			48
+IBM Data Analytics with Excel and R Professional Certificate		      04/30/2025		15
+IBM Data Engineering Professional Certificate						              04/30/2025		12
+Google Data Analytics Professional Certificate					  	          07/31/2024		12
+Google Project Management Professional Certificate					          07/31/2024		9			48
 
 
 
-IBM Full Stack Cloud Developer Professional Certificate				04/30/2025		18
-Google IT Support Professional Certificate							01/31/2026		15
-Google UX Design Professional Certificate							07/31/2024		10
-IBM Cybersecurity Analyst Professional Certificate					09/30/2024		10
-Deep Learning Specialization										03/31/2025		10			63
+IBM Full Stack Cloud Developer Professional Certificate				        04/30/2025		18
+Google IT Support Professional Certificate						                01/31/2026		15
+Google UX Design Professional Certificate							                07/31/2024		10
+IBM Cybersecurity Analyst Professional Certificate				          	09/30/2024		10
+Deep Learning Specialization										                      03/31/2025		10			63
 
 
 
